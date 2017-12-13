@@ -47,4 +47,4 @@ if deltax <= 0:
         deltay=dydx*deltax
         y+=deltay
         x+=deltax
-print('y('+str(deltax)+')')
+print('y('+str(deltax)+'):',y)
